@@ -1,2 +1,3 @@
+Ok, there is a built in editor for txt files then...
 # hello-world
 first git-hub repo
